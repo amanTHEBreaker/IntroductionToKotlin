@@ -1,8 +1,9 @@
 # Introduction To Kotlin
 
 Getting started with kotlin with the examples 
+I'll be adding my notes and concise examples 
 
-> [YouTube reference](https://www.youtube.com/watch?v=fX-_oYJ9TQg)
+> [Original Repo](https://github.com/KhushiSharma22/Introduction-To-Kotlin)
 ## [1.  Output your name and age](https://github.com/amanTHEBreaker/IntroductionToKotlin/blob/master/src/main/kotlin/Program1.kt)
 We have to print our name and age using Kotlin In-Built Function.
 
